@@ -98,6 +98,16 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {
+            "prerender": false,
+            "ssr": false,
+            "browserTarget": "Bus-ticket-reserve:build:production",
+            "firebaseProject": "bus-ticket-booking-angular",
+            "firebaseHostingSite": "bus-ticket-booking-angular"
+          }
         }
       }
     }
