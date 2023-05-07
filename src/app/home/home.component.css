@@ -1,0 +1,40 @@
+.heading{
+  text-align: center;
+  z-index: 10;
+  color: white;
+  margin-top: 20px;
+}
+
+.welcome{
+  z-index: 10;
+  color: white;
+  margin-top: 20px;
+}
+
+/* .over-banner{
+    width: 100%;
+} */
+
+/* .content{
+    padding: 8px;
+    width: 95%;
+    margin-top: 50px;
+    z-index: 10;
+    background-color: white;
+} */
+
+.about-us-heading{
+  text-align: center;
+}
+
+.about-us-heading span{
+  color: #35156b;
+  padding: 8px;
+  border-radius: 5px;
+  font-size: 23px;
+  font-weight: 700;
+}
+
+.icon fa-icon{
+  color: #3d6878;
+}
