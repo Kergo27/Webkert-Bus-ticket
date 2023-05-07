@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "bus-ticket-booking-angular": {
+      "hosting": {
+        "Bus-ticket-reserve": [
+          "bus-ticket-booking-angular"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "bus-ticket-booking-angular"
+  }
+}
